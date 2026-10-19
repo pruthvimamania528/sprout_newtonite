@@ -1,0 +1,6 @@
+{
+  "name": "Sprout 2.0 - Mobile KYC Prototype",
+  "description": "Interactive mobile onboarding prototype for Sprout 2.0 featuring Welcome, Prepare for KYC, Identity Details, Verification Status, and KYC Success screens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
